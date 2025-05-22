@@ -7,6 +7,11 @@
 - 💬 Ask me about **Mobile app development**
 - 📫 How to reach me: **belalemad057@gmail.com**
 
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/belalemad](https://www.linkedin.com/in/belal-emad-282124199))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:belalemad057@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/belal-emad-dev)
+
 ### 🛠️ Languages and Tools:
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
