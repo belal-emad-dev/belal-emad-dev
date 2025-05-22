@@ -15,6 +15,16 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 GitHub Stats:
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=belal-emad-dev&show_icons=true&theme=radical)
+
+### 🔥 GitHub Streak:
+[![GitHub Streak](https://streak-stats.demolab.com?user=belal-emad-dev&theme=radical)](https://git.io/streak-stats)
+
+### 🧠 Top Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belal-emad-dev&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📈 Activity Graph:
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=belal-emad-dev&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
