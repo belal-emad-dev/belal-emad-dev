@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Belal </h1>
-<h3 align="center">A passionate [software developer / Flutter developer / etc.] from Egypt </h3>
+<h3 align="center">A passionate Flutter developer from Egypt </h3>
 
 - 🔭 I’m currently working on **Docsuite**
 - 🌱 I’m currently learning **Software development**
